@@ -1,0 +1,20 @@
+{
+  "name": "budget",
+  "version": "1.0.0",
+  "description": "Repositorio que lleva registros de los montos utilizados por cada meetup, detalles de en qué fueron gastados e integrado con TravisCI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banodejs/budget.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/banodejs/budget/issues"
+  },
+  "homepage": "https://github.com/banodejs/budget#readme"
+}
